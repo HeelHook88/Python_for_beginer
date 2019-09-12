@@ -1,0 +1,7 @@
+a = int(input('Ввежите первое число '))
+b = int(input('Введите второе число '))
+print(a, b)
+a = a + b
+b = a - b
+a = a - b
+print(a, b)
